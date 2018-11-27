@@ -27,17 +27,15 @@ Sea una matriz definida como:
 ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/6222e9f1577287b35d8c10bdb1a8018dcb46a934)
 Se puede resolver un sistema de ecuaciones mediante:
 ## 2.2) Método de eliminación Gaussiana
-![alt text]()
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/65d92f997de9f7ad787b95d08fcd25dca828dd93)
 ## 2.3) Método de factorización LU
-![alt text]()
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a593e8efae46593df51e1ccf84d7745fd96c3514)
 ## 2.4) Método de Gauss Seidel
-![alt text]()
-## 2.5) Variación del Método de Newton-Rhapson para SE 
-![alt text]()
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/2ad7625d54de6ea003d30fcb373d2566b392d914)
 # 3 Métodos de regresión e interpolación lineal y polinomial
-
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Interpolación_lineal.svg/800px-Interpolación_lineal.svg.png)
 ## 3.2) Método de Lagrange
-
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lagrange_polynomial.svg/743px-Lagrange_polynomial.svg.png)
 
 # 4 Métodos para encontrar el area bajo una curva
 ## 4.2) Método de Riemann
